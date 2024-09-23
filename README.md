@@ -28,6 +28,6 @@ Tanymtest, основная цель этого проекта - предост�
 
 ### Profile and make appointments page
 
-![Uploading Снимок экрана 2024-09-23 в 11.10.34.png…]()
+<img width="1460" alt="Снимок экрана 2024-09-23 в 11 10 34" src="https://github.com/user-attachments/assets/e273a315-5bf4-4739-8027-d3792c93b4a7">
 
 
