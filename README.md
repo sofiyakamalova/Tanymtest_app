@@ -1,16 +1,33 @@
 # tanymtest_app
 
-A new Flutter project.
+Tanymtest, основная цель этого проекта - предоставить психологам возможности, с помощью которых они смогут помочь студентам эффективно справляться с проблемами личностного роста и узнавать больше о себе. Особое внимание уделяется тому факту, что эмоциональный интеллект очень важен для хоро-шего
+общения в различных обстоятельствах, эффективного управления стрес-сом, а также для поддержания отношений в рамках личного образа жизни или карьеры. Учитывая этот факт, проект помогает психологам оказывать 
+поддержку и содействие студентам в понимании самих себя. Проект основан на серии тестов, которые позволяют участникам исследовать различные аспек-ты своей личности и поведения. После прохождения теста пользователи могут получить обратную связь от психологов. Платформа также предлагает статьи, книги, подкасты, рекомендованные психологами, тем самым способс-твуя пониманию себя и других. Такой подход помогает не только повысить личностный рост пользователей, но и служит инструментом для психологов в эффективной поддержке своих учеников.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+### Onboarding 
+<img width="1460" alt="Снимок экрана 2024-09-23 в 11 04 14" src="https://github.com/user-attachments/assets/d9a46b1b-7834-4601-a727-9fa6c8087e14">
 
-A few resources to get you started if this is your first Flutter project:
+### Login
+<img width="1460" alt="Снимок экрана 2024-09-23 в 11 04 33" src="https://github.com/user-attachments/assets/8bc714e9-d2a4-439a-a4a3-67d10ccf9611">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Main test page
+<img width="1460" alt="Снимок экрана 2024-09-23 в 11 11 05" src="https://github.com/user-attachments/assets/44e17b1e-b99b-415f-942e-97981371cded">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Supporting animations during the test
+![Снимок экрана 2024-09-23 в 11 09 54](https://github.com/user-attachments/assets/e63b8d00-b4dc-4150-a3a3-fb04331fd7db)
+
+### Result page
+<img width="1460" alt="Снимок экрана 2024-09-23 в 11 10 03" src="https://github.com/user-attachments/assets/b776a9b0-4ab7-469a-b590-cee718e303a0">
+
+### History result page
+![Снимок экрана 2024-09-23 в 11 10 19](https://github.com/user-attachments/assets/6b7cc6fc-2c6f-43b3-b572-e72578bda1f1)
+
+### Resourses page
+![Снимок экрана 2024-09-23 в 11 10 26](https://github.com/user-attachments/assets/d7b00f8d-4ef5-4fbc-ac46-986565c60a50)
+
+### Profile and make appointments page
+
+![Uploading Снимок экрана 2024-09-23 в 11.10.34.png…]()
+
+
